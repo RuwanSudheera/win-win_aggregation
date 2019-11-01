@@ -1,6 +1,6 @@
 ﻿# win-win_aggregation
  
- This is the back-end development of the project.
+ This is the back-end development of the project. To get the front-end code go to `https://github.com/RuwanSudheera/win-win`
 
 ## How To Use
 
